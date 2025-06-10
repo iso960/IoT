@@ -71,3 +71,5 @@ $ cd 2024_inhatc/Zigbee/Oscilloscope/
 ```
   - 실행방법 (mote 연결후)
 ```
+python oscilloscope.py serial@/dev/ttyUSB0:115200
+```
